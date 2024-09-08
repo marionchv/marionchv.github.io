@@ -6,7 +6,7 @@
 - Master, Maths & ML| ENS Paris-Saclay (_2022_)	 			        		
 - Master, Physics | ENS-ICFP, Paris (_2021_)
 
-See here my [resume](assets/pdf/CV_CHAUVEAU.pdf)
+See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 
 ## Projects
 ### Generative models for protein sequences
