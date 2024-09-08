@@ -3,10 +3,8 @@
 #### I am a PhD student working at the Tree/TIMC lab (Grenoble) and the Gulliver lab (ESPCI, Paris). My research lies at the intersection of Physics, Machine Learning, and Biology, where I develop generative models for protein sequences.
 
 ## Education							       		
-- Master, Maths & Machine learning (MVA)	| ENS Paris-Saclay (_2022_)	 			        		
+- Master, Maths & ML| ENS Paris-Saclay (_2022_)	 			        		
 - Master, Physics | ENS-ICFP, Paris (_2021_)
-- Licence, Physics | ENS Paris-Saclay (_2019_)
-- Scientific CPGE, PCSI/PSI | Lycée Clemenceau, Nantes (_2015-2018_)
 
 See here my [resume](assets/pdf/CV_CHAUVEAU.pdf)
 
