@@ -5,3 +5,26 @@ description: PhD student
 email: marion.chauveau<at>univ-grenoble-alpes.fr
 twitter_username: Marion_Chauveau
 theme: jekyll-theme-minimal
+
+include:
+  - _pages
+
+defaults:
+  # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: # true
+  #     share: true
+  #     related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      # layout: header_free
+      layout: default
