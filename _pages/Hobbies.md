@@ -1,6 +1,6 @@
 ---
 title: Hobbies
-permalink: /publi
+permalink: /Hobbies
 ---
 
 # Hobbies
