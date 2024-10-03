@@ -20,6 +20,6 @@ permalink: /Hobbies
 
 ## Runing
 
-- 2024 | Thriathlon | T24 île de ré
+- 2024 | Thriathlon | T24 | île de ré
 - 2016 | Foulées de l'éléphant | 10km | Nantes
 
