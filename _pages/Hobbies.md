@@ -1,3 +1,8 @@
+---
+title: Hobbies
+permalink: /publi
+---
+
 # Hobbies
 
 ## Table-Tennis
