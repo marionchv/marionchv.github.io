@@ -28,3 +28,11 @@ defaults:
     values:
       # layout: header_free
       layout: default
+
+
+# Custom navigation links
+nav:
+  - title: "Publications"          # This will appear as the link text
+    url: /publi           # Internal links point to your pages
+  - title: "Hobbies"
+    url: /Hobbies
