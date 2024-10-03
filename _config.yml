@@ -28,3 +28,16 @@ defaults:
     values:
       # layout: header_free
       layout: default
+
+header_pages:
+  - Hobbies.md  # Add pages you want in the header and sidebar
+  - publi.md
+
+# Custom navigation links
+nav:
+  - title: "GitHub Profile"  # This will appear as the link text
+    url: https://github.com/your-github-username  # Your GitHub profile URL
+  - title: "Publications"          # This will appear as the link text
+    url: /publi/            # Internal links point to your pages
+  - title: "Hobbies"
+    url: /Hobbies/
