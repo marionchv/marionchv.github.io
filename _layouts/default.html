@@ -31,8 +31,9 @@
         <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
         {% endif %}
         
-        <p class="view"><a href="/_pages/publi">Publications</a></p>
-        <p class="view"><a href="/_pages/Hobbies">Hobbies</a></p>    
+        {% for link in site.nav %}
+        <p class="view"><a href="{{ link.url }}">{{link.title}}</a></p>
+        {% endfor %}   
 
         {% if site.show_downloads %}
         <ul class="downloads">
