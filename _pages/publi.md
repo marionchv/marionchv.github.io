@@ -1,3 +1,8 @@
+---
+title: Publications
+permalink: /publi
+---
+
 # Publications & Conferences
 
 ## Journals
