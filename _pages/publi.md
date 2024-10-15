@@ -13,7 +13,7 @@ permalink: /publi
 
 ## Talks
 - Graph dictionary learning for the study of human motion - [46th Annual International Conference of the IEEE EMBS](https://embc.embs.org/2024/), Summer 2024
-- Generative models of Protein sequences - Journées de la Physique Statistique, Winter 2024
+- Generative models of Protein sequences - [Journées de la Physique Statistique](assets/pdf/Talk_JPS_CHAUVEAU.pdf), Winter 2024
 - Generative models of Protein sequences - [5th course on Multi-scale Integration in Biological Systems](https://training.institut-curie.org/courses/multiscale-2023), Fall 2023
 
 ## Posters
