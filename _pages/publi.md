@@ -17,5 +17,5 @@ permalink: /publi
 - Generative models of Protein sequences - [5th course on Multi-scale Integration in Biological Systems](https://training.institut-curie.org/courses/multiscale-2023), Fall 2023
 
 ## Posters
-- Overcoming Undersampling in Generative Models for Biological Sequences - Biological sequence variation from statistical modeling to structure, function, and evolutionary
+- [Overcoming Undersampling in Generative Models for Biological Sequences](assets/pdf/Poster_Cargese_vf.pdf) - Biological sequence variation from statistical modeling to structure, function, and evolutionary
 dynamics, Institut d’Études Scientifiques, Cargese.
