@@ -47,6 +47,9 @@ permalink: /Readings
 | Ensemble, c'est tout | Anna Gavalda | 2004 | Novel |
 | Je l'aimais | Anna Gavalda | 2002 | Novel |
 | Je voudrais que quelqu'un m'attende quelque part | Anna Gavalda | 1999 | Novel |
+| Métaphysique des tubes | Amélie Nothomb | 2000 | Novel |
+| Hygiène de l'assassin | Anna Gavalda | 1992 | Novel |
+
 
 
 
