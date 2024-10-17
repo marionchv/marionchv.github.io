@@ -48,7 +48,7 @@ permalink: /Readings
 | Je l'aimais | Anna Gavalda | 2002 | Novel |
 | Je voudrais que quelqu'un m'attende quelque part | Anna Gavalda | 1999 | Novel |
 | Métaphysique des tubes | Amélie Nothomb | 2000 | Novel |
-| Hygiène de l'assassin | Anna Gavalda | 1992 | Novel |
+| Hygiène de l'assassin | Amélie Nothomb | 1992 | Novel |
 
 
 
