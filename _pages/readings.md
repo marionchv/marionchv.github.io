@@ -24,8 +24,8 @@ permalink: /Readings
 | En bons pères de famille | Rose Lamy | 2023 | Essay |
 | Les Blancs, les Juifs et nous: Vers une politique de l'amour révolutionnaire | Houria Bouteldja | 2016 | Essay |
 | Transfuges de sexe | Emmanuel Beaubatie | 2021 | Essay |
-| Matérialismes trans | Pauline Clochec | 2021 | Essay |
-| Après l'identité : Transitude & féminisme | Pauline Clochec | 2023 | Essay |
+| Matérialismes trans | Pauline Clochec et al. | 2021 | Essay |
+| Après l'identité : Transitude & féminisme | Pauline Clochec et al. | 2023 | Essay |
 
 
 
