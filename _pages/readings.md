@@ -21,6 +21,8 @@ permalink: /Readings
 
 ## Before
 
+| Title | Authors | Year | Gender |
+|------|----------|----------|-------|
 | Testo Junkie : sexe, drogue et biopolitique | Paul B. Preciado | 2008 | Essay |
 | Faire justice | Elsa Deck Marsault | 2023 | Essay |
 | Comment l'université broie les jeunes chercheurs | Adèle B. Combes | 2022 | Essay |
