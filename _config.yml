@@ -36,3 +36,5 @@ nav:
     url: /publi           # Internal links point to your pages
   - title: "Hobbies"
     url: /Hobbies
+  - title: "Readings"
+    url: /Readings
