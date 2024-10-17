@@ -7,7 +7,7 @@ See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 ## Projects
 ### Generative models for protein sequences
 
-Work in progress...
+[![Potts Model](/assets/img/potts_model.png)](/assets/img/potts_model.png)
 
 ### Human Motion analysis via graph signal dictionary learning
 M. Chauveau, A. Mazarguil, and L. Oudre. [Graph dictionary learning for the study of human motion.](assets/pdf/EMBC2024_ext.pdf) In Proceedings of the International Conference of the IEEE Engineering in Medecine and Biology Society (EMBC), Orlando, Florida, USA, 2024.
