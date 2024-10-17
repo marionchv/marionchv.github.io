@@ -13,3 +13,7 @@ Work in progress...
 M. Chauveau, A. Mazarguil, and L. Oudre. [Graph dictionary learning for the study of human motion.](assets/pdf/EMBC2024_ext.pdf) In Proceedings of the International Conference of the IEEE Engineering in Medecine and Biology Society (EMBC), Orlando, Florida, USA, 2024.
 
 [![Human motion analysis](/assets/img/Human_motion_analysis_VisualAbstract.png)](/assets/img/Human_motion_analysis_VisualAbstract.png)
+
+### My implementation of an image Segmentation algorithm
+
+Add short description + image 
