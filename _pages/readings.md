@@ -18,6 +18,9 @@ permalink: /Readings
 | L'étranger | Albert Camus | 1942 | Novel |
 | L'arabe du futur I | Riad Sattouf | 2014 | Comic strips |
 | Pédés | R. Tayupo et al. | 2023 | Essay |
+
+## Before
+
 | Testo Junkie : sexe, drogue et biopolitique | Paul B. Preciado | 2008 | Essay |
 | Faire justice | Elsa Deck Marsault | 2023 | Essay |
 | Comment l'université broie les jeunes chercheurs | Adèle B. Combes | 2022 | Essay |
