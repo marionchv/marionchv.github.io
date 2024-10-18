@@ -16,4 +16,6 @@ M. Chauveau, A. Mazarguil, and L. Oudre. [Graph dictionary learning for the stud
 
 ### My implementation of an image Segmentation algorithm
 
-Add short description + image 
+See here the [repository](https://github.com/marionchv/Interactive-Multi-label-segmentation)
+
+[![Image Segmentation](/assets/img/image_segmentation.png)](/assets/img/image_segmentation.png)
