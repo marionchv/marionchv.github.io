@@ -5,10 +5,6 @@ permalink: /Hobbies
 
 # Hobbies
 
-## Table-Tennis
-
-[FFTT](https://www.fftt.com/site/personnes/by-number?number_id=4440440)
-
 ## Biking Adventures
 
 | Year | Duration | Distance | Route |
@@ -26,4 +22,15 @@ permalink: /Hobbies
 |------|--------------------------|----------|----------|
 | 2024 | Triathlon T24            | -        | Île de Ré |
 | 2016 | Foulées de l'éléphant    | 10 km    | Nantes   |
+
+## Hiking
+
+| Year | Name | Duration | Distance |
+|------|--------------------------|----------|----------|
+| 2024 | GR65 | 4 days |  |
+
+
+## Table-Tennis
+
+[FFTT](https://www.fftt.com/site/personnes/by-number?number_id=4440440)
 
