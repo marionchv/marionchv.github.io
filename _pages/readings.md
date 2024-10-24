@@ -9,6 +9,7 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| Vie, Vieillesse et mort d'une femme du peuple | Didier Eribon | 2009 | Essay |
 | En finir avec Eddy Bellegueule | Édouard Louis | 2014 | Autobiographical novel |
 | Retours à Reims | Didier Eribon | 2009 | Autobiographical essay |
 | La place | Annie Ernaux | 1983 | Autobiographical novel |
