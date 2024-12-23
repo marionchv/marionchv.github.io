@@ -9,6 +9,7 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| L'effondrement | Édouard Louis | 2024 | Autobiographical essay |
 | Extrême droite: la résistible ascension | Institut La Boétie | 2024 | Essay |
 | Allons nous continuer la recherche scientifique ? | Alexandre Grothendieck | 1972 | Discussion |
 | Qui a tué mon père | Édouard Louis | 2018 | Autobiographical essay |
