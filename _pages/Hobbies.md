@@ -9,6 +9,7 @@ permalink: /Hobbies
 
 | Year | Duration | Distance | Route |
 |------|----------|----------|-------|
+| 2024 | 4 days   | 160 km   | Saumur > Angers > Ancenis > La Montagne |
 | 2023 | 4 days   | 210 km   | La Montagne > Saint-Brevin-les-Pins > Bourgneuf-en-Retz > La Barre-de-Monts > Les Sables-d'Olonne |
 | 2021 | 3 days   | 197 km   | Angers > Château-Gontier > Laval > Mayenne > Laval |
 | 2020 | 4 days   | 273 km   | Morlaix > Perros-Guirec > Paimpol > Saint Brieuc > Saint Malo |
@@ -27,7 +28,7 @@ permalink: /Hobbies
 
 | Year | Name | Duration | Distance |
 |------|--------------------------|----------|----------|
-| 2024 | GR65 | 4 days |  |
+| 2024 | GR65 | 4 days | Le Puy-en-Velay > Aumont-Aubrac |
 
 
 ## Table-Tennis
