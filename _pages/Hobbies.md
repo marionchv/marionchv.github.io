@@ -26,7 +26,7 @@ permalink: /Hobbies
 
 ## Hiking
 
-| Year | Name | Duration | Distance |
+| Year | Name | Duration | Route |
 |------|--------------------------|----------|----------|
 | 2024 | GR65 | 4 days | Le Puy-en-Velay > Aumont-Aubrac |
 
