@@ -5,6 +5,12 @@ permalink: /Readings
 
 # Readings
 
+## 2025
+
+| Title | Authors | Year | Gender |
+|------|----------|----------|-------|
+| Je suis un monstre qui vous parle | Paul B. Preciado | 2020 | Essay |
+
 ## 2024
 
 | Title | Authors | Year | Gender |
