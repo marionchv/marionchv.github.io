@@ -9,6 +9,7 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| La fin des monstres | Tal Madesta | 2023 | Essay |
 | Je suis un monstre qui vous parle | Paul B. Preciado | 2020 | Essay |
 
 ## 2024
