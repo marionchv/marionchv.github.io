@@ -9,6 +9,7 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| L'existentialisme est un humanisme | Jean-Paul Sartre | 1946 | Conference |
 | La fin des monstres | Tal Madesta | 2023 | Autobiographical essay |
 | Je suis un monstre qui vous parle | Paul B. Preciado | 2020 | Conference |
 
