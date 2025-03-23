@@ -9,6 +9,7 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| Résister | Salomé Saqué | 2024 | Essay |
 | L'envers et l'endroit | Albert Camus | 1937 | Essay |
 | L'existentialisme est un humanisme | Jean-Paul Sartre | 1946 | Conference |
 | La fin des monstres | Tal Madesta | 2023 | Autobiographical essay |
