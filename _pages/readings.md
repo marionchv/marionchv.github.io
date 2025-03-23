@@ -9,6 +9,7 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| La peur et la haine | Mathieu Burgalassi | 2021 | Autobiographical essay |
 | Résister | Salomé Saqué | 2024 | Essay |
 | L'envers et l'endroit | Albert Camus | 1937 | Essay |
 | L'existentialisme est un humanisme | Jean-Paul Sartre | 1946 | Conference |
