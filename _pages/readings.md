@@ -9,6 +9,9 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| Mon vrai nom est Elisabeth | Adèle Yon | 2025 | Autobiographical essay |
+| Sauver l'information de l'emprise des milliardaires | Olivier Legrain | 2025 | Essay |
+| Personne ne sort les fusils | Sandra Lucbert | 2020 | Essay |
 | Personne ne sort les fusils | Sandra Lucbert | 2020 | Essay |
 | La peur et la haine | Mathieu Burgalassi | 2021 | Autobiographical essay |
 | Résister | Salomé Saqué | 2024 | Essay |
