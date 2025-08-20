@@ -9,6 +9,7 @@ permalink: /Hobbies
 
 | Year | Duration | Distance | Route |
 |------|----------|----------|-------|
+| 2025 | 5 days   |  km   | Vannes > Étel > Pont-Aven > Pont-l'Abbé > Plogoff |
 | 2024 | 4 days   | 160 km   | Saumur > Angers > Ancenis > La Montagne |
 | 2023 | 4 days   | 210 km   | La Montagne > Saint-Brevin-les-Pins > Bourgneuf-en-Retz > La Barre-de-Monts > Les Sables-d'Olonne |
 | 2021 | 3 days   | 197 km   | Angers > Château-Gontier > Laval > Mayenne > Laval |
