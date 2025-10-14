@@ -9,8 +9,8 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
-| Un désir démesuré d'amitié | Mickaël Tempête | 2024 | Autobiographical essay |
-| La gaie panique : une histoire politique de l'homophobie | Hélène Giannecchini | 2024 | Essay |
+| Un désir démesuré d'amitié | Hélène Giannecchini | 2024 | Autobiographical essay |
+| La gaie panique : une histoire politique de l'homophobie | Mickaël Tempête | 2024 | Essay |
 | Mon vrai nom est Elisabeth | Adèle Yon | 2025 | Autobiographical essay |
 | Sauver l'information de l'emprise des milliardaires | Olivier Legrain | 2025 | Essay |
 | Personne ne sort les fusils | Sandra Lucbert | 2020 | Essay |
