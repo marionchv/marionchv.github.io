@@ -1,6 +1,6 @@
 # About Me
 
-#### I am a PhD student working at the [TIMC lab](https://tree-timc.github.io/) (Grenoble) and the [Gulliver lab](https://www.gulliver.espci.fr/?-home-) (ESPCI, Paris). My research lies at the intersection of Physics, Machine Learning, and Biology, where I develop generative models for protein sequences.
+#### I am a Post doctoral researcher working at the [Gulliver lab](https://www.gulliver.espci.fr/?-home-) (ESPCI, Paris). My research lies at the intersection of Physics, Machine Learning, and Biology, where I develop generative models for protein sequences.
 
 See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 
