@@ -6,6 +6,7 @@ See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 
 ## Projects
 ### Generative models for protein sequences
+M. Chauveau. [Generative models for protein sequences.](https://theses.fr/s368730) PhD thesis manuscript.
 
 [![Potts Model](/assets/img/potts_model.png)](/assets/img/potts_model.png)
 
