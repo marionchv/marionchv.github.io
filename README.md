@@ -10,6 +10,12 @@ Marion Chauveau. Generative models for protein sequences. [PhD thesis manuscript
 
 [![TM inference](/assets/img/TM_inf.png)](/assets/img/TM_inf.png)
 
+### Investigate protein properties with statistical learning
+
+Paul Guénon, Marion Chauveau} \textit{et al.} Allostery without Large Motions: Molecular Dissection of a Minimal-Shift MWC Allosteric Regulation. In Preparation.
+
+[![Protein properties](/assets/img/Protein_properties.png)](/assets/img/Protein_properties.png)
+
 ### Human Motion analysis via graph signal dictionary learning
 M. Chauveau, A. Mazarguil, and L. Oudre. Graph dictionary learning for the study of human motion. [In Proceedings of the International Conference of the IEEE Engineering in Medecine and Biology Society (EMBC),  2024, pp. 1–5.](assets/pdf/EMBC2024_ext.pdf)
 
