@@ -18,6 +18,9 @@ permalink: /Hobbies
 | 2018 | 3 days   | 182 km   | La Rochelle > Saint-Laurent-de-la-Prée > Royan > Around Île de Ré |
 | 2017 | 4 days   | 348 km   | La Montagne > Redon > Sulniac > La Turbale > La Montagne |
 
+<br><br>
+
+
 ## Running achievements
 
 | Year | Event                    | Distance | Location |
@@ -25,12 +28,15 @@ permalink: /Hobbies
 | 2024 | Triathlon T24            | -        | Île de Ré |
 | 2016 | Foulées de l'éléphant    | 10 km    | Nantes   |
 
+<br><br>
+
 ## Hiking
 
 | Year | Name | Duration | Route |
 |------|--------------------------|----------|----------|
 | 2024 | GR65 | 4 days | Le Puy-en-Velay > Aumont-Aubrac |
 
+<br><br>
 
 ## A selection of recent readings
 
