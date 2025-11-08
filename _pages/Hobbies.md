@@ -32,7 +32,17 @@ permalink: /Hobbies
 | 2024 | GR65 | 4 days | Le Puy-en-Velay > Aumont-Aubrac |
 
 
-## Table-Tennis
+## Recent Reads I Enjoyed
 
-[FFTT](https://www.fftt.com/site/personnes/by-number?number_id=4440440)
+| Title | Authors | Year | Gender |
+|------|----------|----------|-------|
+| La gaie panique : une histoire politique de l'homophobie | Mickaël Tempête | 2024 | Essay |
+| Mon vrai nom est Elisabeth | Adèle Yon | 2025 | Autobiographical essay |
+| Personne ne sort les fusils | Sandra Lucbert | 2020 | Essay |
+| Je suis un monstre qui vous parle | Paul B. Preciado | 2020 | Conference |
+
+
+
+
+
 
