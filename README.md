@@ -15,7 +15,7 @@ M. Chauveau, A. Mazarguil, and L. Oudre. Graph dictionary learning for the study
 
 [![Human motion analysis](/assets/img/Human_motion_analysis_VisualAbstract.png)](/assets/img/Human_motion_analysis_VisualAbstract.png)
 
-### My implementation of an image Segmentation algorithm
+### Implementation of an image Segmentation algorithm
 
 See here the [repository](https://github.com/marionchv/Interactive-Multi-label-segmentation)
 
