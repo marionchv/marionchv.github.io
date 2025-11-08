@@ -5,7 +5,7 @@ permalink: /Hobbies
 
 # Hobbies
 
-## Biking Adventures
+## Biking adventures
 
 | Year | Duration | Distance | Route |
 |------|----------|----------|-------|
@@ -18,7 +18,7 @@ permalink: /Hobbies
 | 2018 | 3 days   | 182 km   | La Rochelle > Saint-Laurent-de-la-Prée > Royan > Around Île de Ré |
 | 2017 | 4 days   | 348 km   | La Montagne > Redon > Sulniac > La Turbale > La Montagne |
 
-## Running Achievements
+## Running achievements
 
 | Year | Event                    | Distance | Location |
 |------|--------------------------|----------|----------|
@@ -32,7 +32,7 @@ permalink: /Hobbies
 | 2024 | GR65 | 4 days | Le Puy-en-Velay > Aumont-Aubrac |
 
 
-## Recent Reads I Enjoyed
+## A selection of recent readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
