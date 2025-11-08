@@ -4,11 +4,11 @@
 
 See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 
-## Projects
-### Generative models for protein sequences
+# Projects
+### Undersampling-induced biases in generative models for protein sequences
 Marion Chauveau. Generative models for protein sequences. [PhD thesis manuscript.](https://theses.fr/s368730)
 
-[![Potts Model](/assets/img/potts_model.png)](/assets/img/potts_model.png)
+[![Potts Model](/assets/img/ToyModel_InfProcess.pdf)](/assets/img/ToyModel_InfProcess.pdf)
 
 ### Human Motion analysis via graph signal dictionary learning
 M. Chauveau, A. Mazarguil, and L. Oudre. Graph dictionary learning for the study of human motion. [In Proceedings of the International Conference of the IEEE Engineering in Medecine and Biology Society (EMBC),  2024, pp. 1–5.](assets/pdf/EMBC2024_ext.pdf)
