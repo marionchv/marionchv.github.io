@@ -12,7 +12,7 @@ Marion Chauveau. Generative models for protein sequences. [PhD thesis manuscript
 
 ### Investigate protein properties with statistical learning
 
-Paul Guénon, Marion Chauveau} \textit{et al.} Allostery without Large Motions: Molecular Dissection of a Minimal-Shift MWC Allosteric Regulation. In Preparation.
+Paul Guénon, Marion Chauveau *et al.* Allostery without Large Motions: Molecular Dissection of a Minimal-Shift MWC Allosteric Regulation. In Preparation.
 
 [![Protein properties](/assets/img/Protein_properties.png)](/assets/img/Protein_properties.png)
 
