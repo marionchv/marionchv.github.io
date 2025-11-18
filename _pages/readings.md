@@ -9,6 +9,8 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| Combats et métamorphoses d'une femme | Édouard Louis | 2021 | Autobiographical essay |
+| Maus | Art Spiegelman | 1986 | Comic book |
 | Un désir démesuré d'amitié | Hélène Giannecchini | 2024 | Autobiographical essay |
 | La gaie panique : une histoire politique de l'homophobie | Mickaël Tempête | 2024 | Essay |
 | Mon vrai nom est Elisabeth | Adèle Yon | 2025 | Autobiographical essay |
