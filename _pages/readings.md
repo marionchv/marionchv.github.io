@@ -9,6 +9,9 @@ permalink: /Readings
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| Lettre au père | Franz Kafka | 1919 | Letter |
+| Jacaranda | Gaël Faye | 2024 | Novel |
+| Le Motif dans le tapis | Henry James | 1896 | Novel |
 | Combats et métamorphoses d'une femme | Édouard Louis | 2021 | Autobiographical essay |
 | Maus | Art Spiegelman | 1986 | Comic book |
 | Un désir démesuré d'amitié | Hélène Giannecchini | 2024 | Autobiographical essay |
