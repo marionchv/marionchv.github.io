@@ -7,6 +7,7 @@ See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 # Projects
 ### Undersampling-induced biases in generative models for protein sequences
 Marion Chauveau. Generative models for protein sequences. [PhD thesis manuscript](https://theses.fr/s368730), 2025.
+Marion Chauveau *et al.* Overcoming undersampling-induced biases in generative models for protein sequences. In Preparation.
 
 [![TM inference](/assets/img/TM_inf.png)](/assets/img/TM_inf.png)
 
