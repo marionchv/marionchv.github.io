@@ -16,6 +16,11 @@ permalink: /publi
 ## Conferences
 - M. Chauveau, A. Mazarguil, and L. Oudre. [Graph dictionary learning for the study of human motion.](https://ieeexplore.ieee.org/abstract/document/10782092) In Proceedings of the International Conference of the IEEE Engineering in Medecine and Biology Society (EMBC), Orlando, Florida, USA, 2024.
 
+## Thesis 
+
+- Marion Chauveau. Generative models for protein sequences. [PhD thesis manuscript](https://theses.fr/s368730), 2025.
+- Marion Chauveau. Generative models for protein sequences. PhD Thesis Defense, Paris, France, October $1^{st}$ 2025.
+
 ## Talks
 
 - Predicting compensatory mutations in proteins using statistical models - [BiGre Days](https://bi-gre.github.io/days/), February 2025
