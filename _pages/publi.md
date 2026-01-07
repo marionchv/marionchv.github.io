@@ -19,7 +19,7 @@ permalink: /publi
 ## Thesis 
 
 - Marion Chauveau. Generative models for protein sequences. [PhD thesis manuscript](https://theses.fr/s368730), 2025.
-- Marion Chauveau. Generative models for protein sequences. PhD thesis defense, Paris, France, October $1^{st}$ 2025.
+- Marion Chauveau. Generative models for protein sequences. PhD thesis defense, Paris, France, October 1<sup>st</sup> 2025.
 
 ## Talks
 
