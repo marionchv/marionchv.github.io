@@ -7,7 +7,7 @@ permalink: /publi
 
 ## In preparation
 
-- M. Chauveau, Y. Kleeorin, E. Hinds, N. B. Goldfajnc, M. Moorec, R. Ranganathan, I. Junier, O. Rivoire. Overcoming undersampling-induced biases in generative models for protein sequences. In Preparation.
+- M. Chauveau, Y. Kleeorin, E. Hinds, R. Ranganathan, I. Junier, O. Rivoire. Overcoming undersampling-induced biases in generative models for protein sequences. In Preparation.
 - P. Guénon, M. Chauveau, K. Filipowska, C. Nizak, G. Stirnemann, K. Reynolds, O. Rivoire, D. Laage. Allostery without Large Motions: Molecular Dissection of a Minimal-Shift MWC Allosteric Regulation. In Preparation.
 
 ## Journals
