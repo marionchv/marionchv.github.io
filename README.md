@@ -1,6 +1,8 @@
 # About Me
 
-#### I am a Post doctoral researcher working at the [Gulliver lab](https://www.gulliver.espci.fr/?-home-) (ESPCI, Paris). My research lies at the intersection of Physics, Machine Learning, and Biology, where I develop generative models for protein sequences.
+#### I am a researcher working at the intersection of Physics, Machine Learning, and Biology. 
+My PhD focused on generative models for protein sequences and was conducted under the supervision of Ivan Junier and [Olivier Rivoire](https://statbio.net/), between the [TIMC laboratory](https://www.timc.fr/) (Grenoble) and the [Gulliver lab](https://www.gulliver.espci.fr/?-home-) (ESPCI, Paris).
+I am currently open to postdoctoral opportunities.
 
 See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 
