@@ -5,6 +5,12 @@ permalink: /Readings
 
 # Readings
 
+## 2026
+
+| Title | Authors | Year | Gender |
+|------|----------|----------|-------|
+| Ceux qui restent: Faire sa vie dans les campagnes en déclin | Benoît Coquard | 2019 | Essay |
+
 ## 2025
 
 | Title | Authors | Year | Gender |
