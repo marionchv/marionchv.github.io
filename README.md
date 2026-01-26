@@ -14,7 +14,7 @@ Marion Chauveau *et al.* Overcoming undersampling-induced biases in generative m
 
 ### Investigate protein properties with statistical learning
 
-Paul Guénon, Marion Chauveau *et al.* Allostery without Large Motions: Molecular Dissection of a Minimal-Shift MWC Allosteric Regulation. In Preparation.
+Paul Guénon, Marion Chauveau *et al.* Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In Preparation.
 
 [![Protein properties](/assets/img/Protein_properties.png)](/assets/img/Protein_properties.png)
 
