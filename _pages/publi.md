@@ -8,7 +8,7 @@ permalink: /publi
 ## In preparation
 
 - M. Chauveau, Y. Kleeorin, E. Hinds, R. Ranganathan, I. Junier, O. Rivoire. Overcoming undersampling-induced biases in generative models for protein sequences. In Preparation.
-- P. Guénon, M. Chauveau, K. Filipowska, C. Nizak, G. Stirnemann, K. Reynolds, O. Rivoire, D. Laage. Allostery without Large Motions: Molecular Dissection of a Minimal-Shift MWC Allosteric Regulation. In Preparation.
+- P. Guénon, M. Chauveau, K. Filipowska, C. Nizak, G. Stirnemann, K. Reynolds, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In Preparation.
 
 ## Journals
 - S. W. Combettes, P. Boniol, A. Mazarguil, D. Wang, D. Vaquero-Ramos, M. Chauveau, L. Oudre, N. Vayatis, P.-P. Vidal, A. Roren, and M.-M. Lefèvre-Colau. [Arm-CODA: A Data Set of Upper-limb Human Movement During Routine Examination.](https://www.ipol.im/pub/art/2024/494//article.pdf) Image Processing On Line, 14:1-13, 2024.
