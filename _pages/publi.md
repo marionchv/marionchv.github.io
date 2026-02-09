@@ -11,7 +11,7 @@ permalink: /publi
 - P. Guénon, M. Chauveau, K. Filipowska, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In Preparation.
 
 ## Preprints
-- M. Jullien, M. Chauveau, S. Chobert, E. Bouvet, W. Schmitt, F. Pierrel, S. Abby, N. Varoquaux, I. Junier. [COCOA-Tree: Phylogenetic visualization and comparative analysis of coevolving residues.](https://doi.org/10.64898/2026.02.05.703816)
+- M. Jullien, M. Chauveau, S. Chobert, E. Bouvet, W. Schmitt, F. Pierrel, S. Abby, N. Varoquaux, I. Junier. [COCOA-Tree: Phylogenetic visualization and comparative analysis of coevolving residues.](https://doi.org/10.64898/2026.02.05.703816) In review, PCI-MCB journal.
 
 ## Peer-reviewed
 - S. W. Combettes, P. Boniol, A. Mazarguil, D. Wang, D. Vaquero-Ramos, M. Chauveau, L. Oudre, N. Vayatis, P.-P. Vidal, A. Roren, and M.-M. Lefèvre-Colau. [Arm-CODA: A Data Set of Upper-limb Human Movement During Routine Examination.](https://www.ipol.im/pub/art/2024/494//article.pdf) Image Processing On Line, 14:1-13, 2024.
