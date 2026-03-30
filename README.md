@@ -6,15 +6,14 @@ See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 
 # Projects
 ### Undersampling-induced biases in generative models for protein sequences
-Marion Chauveau. Generative models for protein sequences. [PhD thesis manuscript](https://theses.fr/s368730), 2025.
 
-Marion Chauveau *et al.* Overcoming undersampling-induced biases in generative models for protein sequences. In Preparation.
+M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improved inference of multiscale sequence statistics in generative protein models. In Preparation.
 
 [![TM inference](/assets/img/TM_inf.png)](/assets/img/TM_inf.png)
 
 ### Investigate protein properties with statistical learning
 
-Paul Guénon, Marion Chauveau *et al.* Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In Preparation.
+P. Guénon, M. Chauveau, K. Filipowskac, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In Preparation.
 
 [![Protein properties](/assets/img/Protein_properties.png)](/assets/img/Protein_properties.png)
 
