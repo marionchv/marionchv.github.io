@@ -7,7 +7,7 @@ permalink: /publi
 
 ## In preparation
 
-- M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improving protein sequence generative models by capturing the multi-scale statistical structure from limited data. In Preparation.
+- M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improved inference of multiscale sequence statistics in generative protein models. In Preparation.
 - P. Guénon, M. Chauveau, K. Filipowska, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In Preparation.
 
 ## Preprints
