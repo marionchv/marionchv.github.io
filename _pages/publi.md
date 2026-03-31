@@ -11,7 +11,7 @@ permalink: /publi
 
 ## Under review
 
-- P. Guénon, M. Chauveau, K. Filipowska, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In review PNAS journal.
+- P. Guénon, M. Chauveau, K. Filipowska, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In review, PNAS journal.
 - M. Jullien, M. Chauveau, S. Chobert, E. Bouvet, W. Schmitt, F. Pierrel, S. Abby, N. Varoquaux, I. Junier. [COCOA-Tree: Phylogenetic visualization and comparative analysis of coevolving residues.](https://doi.org/10.64898/2026.02.05.703816) In review, PCI-MCB journal.
 
 
