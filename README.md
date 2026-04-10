@@ -7,13 +7,13 @@ See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 # Projects
 ### Undersampling-induced biases in generative models for protein sequences
 
-M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improved inference of multiscale sequence statistics in generative protein models. In Preparation.
+M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improved inference of multiscale sequence statistics in generative protein models. In review, Cell Systems journal. [\href{https://www.biorxiv.org/content/10.64898/2026.04.06.716859v1}{\textcolor{cvblue}{bioRxiv}}]
 
 [![TM inference](/assets/img/TM_inf.png)](/assets/img/TM_inf.png)
 
 ### Investigate protein properties with statistical learning
 
-P. Guénon, M. Chauveau, K. Filipowskac, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In review, PNAS journal.
+P. Guénon, M. Chauveau, K. Filipowskac, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In review, PNAS journal. [\href{https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001827/v1}{\textcolor{cvblue}{chemRxiv}}]
 
 [![Protein properties](/assets/img/Protein_properties.png)](/assets/img/Protein_properties.png)
 
