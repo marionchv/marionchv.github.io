@@ -7,7 +7,7 @@ See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 # Projects
 ### Undersampling-induced biases in generative models for protein sequences
 
-M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improved inference of multiscale sequence statistics in generative protein models. In review, Cell Systems journal. [[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.06.716859v1)]
+M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improved inference of multiscale sequence statistics in generative protein models. In review, Plos CB journal. [[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.06.716859v1)]
 
 [![TM inference](/assets/img/TM_inf.png)](/assets/img/TM_inf.png)
 
