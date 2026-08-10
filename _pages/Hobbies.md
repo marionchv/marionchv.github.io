@@ -27,7 +27,8 @@ permalink: /Hobbies
 
 | Year | Event                    | Distance | Location |
 |------|--------------------------|----------|----------|
-| 2024 | Triathlon T24            | -        | Île de Ré |
+| 2026 | Odysséa Toulouse         | 10 km    | Toulouse |
+| 2024 | Triathlon T24            | -        | Île de Ré|
 | 2016 | Foulées de l'éléphant    | 10 km    | Nantes   |
 
 <br>
@@ -44,9 +45,9 @@ permalink: /Hobbies
 
 | Title | Authors | Year | Gender |
 |------|----------|----------|-------|
+| Perpendiculaire au soleil | Valentine Cuny-Le Callet | 2022 | Graphic novel |
 | La gaie panique : une histoire politique de l'homophobie | Mickaël Tempête | 2024 | Essay |
-| Mon vrai nom est Elisabeth | Adèle Yon | 2025 | Autobiographical essay |
-| Personne ne sort les fusils | Sandra Lucbert | 2020 | Essay |
+| La chambre de Giovanni | James Baldwin | 1956 | Novel |
 | Je suis un monstre qui vous parle | Paul B. Preciado | 2020 | Conference |
 
 
