@@ -1,6 +1,6 @@
 # About Me
 
-#### My research explores questions at the intersection of machine learning, statistical physics and biology. I completed my PhD on generative models for protein sequences under the supervision Ivan Junier and [Olivier Rivoire](https://statbio.net/), between the [TIMC laboratory](https://www.timc.fr/) (Grenoble) and the [Gulliver lab](https://www.gulliver.espci.fr/?-home-) (ESPCI, Paris).
+#### My research explores questions at the intersection of machine learning, statistical physics and biology. I completed my PhD on generative models for protein sequences under the supervision of Ivan Junier and [Olivier Rivoire](https://statbio.net/), between the [TIMC laboratory](https://www.timc.fr/) (Grenoble) and the [Gulliver lab](https://www.gulliver.espci.fr/?-home-) (ESPCI, Paris).
 
 See here my [resume](assets/pdf/CV_CHAUVEAU_website.pdf)
 
