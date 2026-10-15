@@ -9,10 +9,10 @@ permalink: /publi
 
 - M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Improved inference of multiscale sequence statistics in generative protein models. In review, Plos CB journal. [[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.06.716859v1)]
 - P. Guénon, M. Chauveau, K. Filipowskac, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In review, PNAS journal. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001827/v1)]
-- M. Jullien, M. Chauveau, S. Chobert, E. Bouvet, W. Schmitt, F. Pierrel, S. Abby, N. Varoquaux, I. Junier. COCOA-Tree: Phylogenetic visualization and comparative analysis of coevolving residues. In review, PCI-MCB journal. [[bioRxiv](https://doi.org/10.64898/2026.02.05.703816)]
 
 
 ## Peer-reviewed
+- M. Jullien, M. Chauveau, S. Chobert, E. Bouvet, W. Schmitt, F. Pierrel, S. Abby, N. Varoquaux, I. Junier. COCOA-Tree: Phylogenetic visualization and comparative analysis of coevolving residues. In [PCI-MCB](https://mcb.peercommunityin.org/articles/rec?id=684). [[bioRxiv](https://doi.org/10.64898/2026.02.05.703816)]
 - S. W. Combettes, P. Boniol, A. Mazarguil, D. Wang, D. Vaquero-Ramos, M. Chauveau, L. Oudre, N. Vayatis, P.-P. Vidal, A. Roren, and M.-M. Lefèvre-Colau. [Arm-CODA: A Data Set of Upper-limb Human Movement During Routine Examination.](https://www.ipol.im/pub/art/2024/494//article.pdf) Image Processing On Line, 14:1-13, 2024.
 - M. Chauveau, A. Mazarguil, and L. Oudre. [Graph dictionary learning for the study of human motion.](https://ieeexplore.ieee.org/abstract/document/10782092) In Proceedings of the International Conference of the IEEE Engineering in Medecine and Biology Society (EMBC), Orlando, Florida, USA, 2024.
 
