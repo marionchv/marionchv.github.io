@@ -13,7 +13,7 @@ M. Chauveau, Y. Kleeorin, E. Hinds, I. Junier, R. Ranganathan, O. Rivoire. Impro
 
 ### Investigate protein properties with statistical learning
 
-P. Guénon, M. Chauveau, K. Filipowskac, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In review, PNAS journal. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001827/v1)]
+P. Guénon, M. Chauveau, K. Filipowskac, I. Tunon, C. Nizak, K. Reynolds, G. Stirnemann, O. Rivoire, D. Laage. Mechanism of catalytic regulation by an allosteric hot spot in dihydrofolate reductase. In [PNAS](https://www.pnas.org/doi/10.1073/pnas.2610950123). [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001827/v1)]
 
 [![Protein properties](/assets/img/Protein_properties.png)](/assets/img/Protein_properties.png)
 
